@@ -1,8 +1,8 @@
 {
     "speech":[
-        {"id":1,"name":"ben","script":"hello"},
-        {"id":2,"name":"oka","script":"good"},
-        {"id":3,"name":"ben","script":"morning"},
-        {"id":4,"name":"oka","script":"brother"}
+        {"id":1,"name":"ben","script":"Hello Oka, How are you today?"},
+        {"id":2,"name":"oka","script":"Hello Ben, Iam fine, thank you. How about you?"},
+        {"id":3,"name":"ben","script":"I am good too. Where are you going to go next week?"},
+        {"id":4,"name":"oka","script":"I am going to play Tenis with Casandra next week. I would like you to join"}
     ]
 }
